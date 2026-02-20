@@ -1,23 +1,32 @@
-## Hi, I'm Ines 👋
+# Hi, I'm Ines 👋
 
-### Blockchain Specialist | Smart Contract Logic | Legal-Tech & Security Focus
+### Blockchain Specialist | Architecture & Security Focus | Legal-Tech Expert
 
-As a **Master of Blockchain Technologies and Cryptocurrencies** (IEBS Barcelona), I am dedicated to the structural integrity and security of Web3 ecosystems. My path is defined by a transition from high-level communication to the technical architecture of decentralized systems.
+As a **Master of Blockchain Technologies and Cryptocurrencies** (IEBS Barcelona), I specialize in the structural integrity and security of decentralized systems. I combine technical expertise with the analytical precision of a certified legal background.
 
 ---
 
-### 🔍 Specialization Path: Architecture & Auditing
-With my Master’s degree as a foundation, I am currently deepening my expertise in **Smart Contract Security** and **System Architecture**. I focus on how to build protocols that are not only functional but resilient against logic vulnerabilities.
+### 🛠️ Specialized Focus: Architecture & Auditing
+Building on my Master's degree, I am deepening my expertise in **Smart Contract Security** and **System Architecture**. My goal is to design and audit resilient protocols that meet the highest standards of the Web3 industry.
 
-### 🎓 Academic Foundation
+### ⚖️ The "Legal-Tech" Advantage
+- **Official Spanish Interpreter (Judicial/Legal):** My background as a certified legal interpreter provides a unique edge for **Smart Contract Auditing** and compliance, ensuring that code aligns with rigorous legal frameworks.
+
+### 🌍 Global Communication & Mobility
+I am a multilingual professional, fluent in:
+- **German** | **English** | **Spanish** | **French**
+
+**Currently targeting high-impact remote or hybrid roles in:**
+- 🇪🇸 **Spain** (Barcelona / Madrid / Malaga / Remote)
+- 🇨🇭 **Switzerland** (Crypto Valley / Zurich / Geneva)
+- 🇫🇷 **France** (Global Tech Hubs)
+- 🇦🇪 **United Arab Emirates** (Dubai / Abu Dhabi)
+
+---
+
+### 🎓 Qualifications
 - **Master in Blockchain Technologies and Cryptocurrencies** (IEBS Business School, Spain)
-  *Key areas: DeFi, Tokenomics, and Cryptographic Infrastructure.*
-
-### ⚖️ The "Precision" Advantage
-- **Official Spanish Interpreter (Judicial/Legal):** My background as a certified legal interpreter provides me with the analytical rigor required for **Technical Auditing**. I am trained to spot inconsistencies in complex frameworks—whether in a legal contract or a smart contract.
-
-### 🌍 Multilingual Communication
-Expert-level fluency in **German, Spanish, English, and French**, enabling seamless collaboration in global, cross-border Blockchain projects.
+- **Certified Legal Interpreter** (Spanish / Judicial)
 
 ---
 
