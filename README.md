@@ -24,4 +24,4 @@ Expert-level fluency in **German, Spanish, English, and French**, enabling seaml
 ### 🎯 My Goal
 I am looking to apply my technical Master's knowledge and legal precision in roles involving **Smart Contract Analysis, Technical Consulting, or Project Architecture**.
 
-📫 **Let's connect:** www.linkedin.com/in/ineskrueger
+📫 **Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ineskrueger)
