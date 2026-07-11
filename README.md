@@ -68,9 +68,9 @@ My background as an officially certified Spanish legal interpreter provides valu
 
 ## 🎓 Certifications & Education
 
-- 🏅 Blockchain Architect — Blockchain Council (2026)
-- 🎓 Master in Blockchain Technology & Cryptocurrencies — IEBS Business School (2024)
-- ⚖ Certified Spanish Legal Interpreter (Judicial)
+- 🥉 Certified Blockchain Architect Program (2026)
+- 🎓 Master in Blockchain Technology & Cryptocurrencies — IEBS Barcelona (2024)
+- ⚖️ Certified Spanish Legal Interpreter (Judicial)
 
 ---
 
