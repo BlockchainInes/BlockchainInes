@@ -2,7 +2,7 @@
 
 ## Blockchain Architect | Ethereum | Solidity | Zero-Knowledge | RWA
 
-Blockchain Architect with a Master's degree in Blockchain Technology & Cryptocurrencies from IEBS Business School.
+Blockchain Architect with a Master's degree in Blockchain Technology & Cryptocurrencies from IEBS Barcelona.
 
 I design secure, scalable, and compliance-oriented blockchain solutions with a focus on Ethereum, Smart Contracts, Zero-Knowledge Proofs, Real-World Assets (RWA), and decentralized system architecture.
 
