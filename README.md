@@ -1,42 +1,98 @@
-# Hi, I'm Ines 👋
+# Hi, I'm Ines Krueger 👋
 
-### Blockchain Specialist | Architecture & Security Focus | Legal-Tech Expert
+## Blockchain Architect | Ethereum | Solidity | Zero-Knowledge | RWA
 
-As a **Master of Blockchain Technologies and Cryptocurrencies** (IEBS Barcelona), I specialize in the structural integrity and security of decentralized systems. I combine technical expertise with the analytical precision of a certified legal background.
+Blockchain Architect certified by the Blockchain Council and holder of a Master's degree in Blockchain Technology & Cryptocurrencies (IEBS Business School).
 
----
-
-### 🛠️ Tech Stack & Focus Areas
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Security-yellow?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Blockchain-Architecture-blue?style=for-the-badge)
+I design secure, scalable, and compliance-oriented blockchain solutions with a focus on Ethereum, Smart Contracts, Zero-Knowledge Proofs, Real-World Assets (RWA), and decentralized system architecture.
 
 ---
 
-### 🔍 Specialized Focus: Architecture & Auditing
-Building on my Master's degree, I am deepening my expertise in **Smart Contract Security** and **System Architecture**. My goal is to design and audit resilient protocols that meet the highest standards of the Web3 industry.
+## 🛠 Tech Stack
 
-### ⚖️ The "Legal-Tech" Advantage
-- **Official Spanish Interpreter (Judicial/Legal):** My background as a certified legal interpreter provides a unique edge for **Smart Contract Auditing** and compliance, ensuring that code aligns with rigorous legal frameworks.
-
-### 🌍 Global Communication & Mobility
-I am a multilingual professional, fluent in:
-- **German** | **English** | **Spanish** | **French**
-
-**Currently targeting high-impact remote or hybrid roles in:**
-- 🇪🇸 **Spain** | 🇨🇭 **Switzerland** | 🇫🇷 **France** | 🇦🇪 **United Arab Emirates**
-
----
-
-### 🎓 Qualifications
-- **Master in Blockchain Technologies and Cryptocurrencies** (IEBS Business School, Spain)
-- **Certified Legal Interpreter** (Spanish / Judicial)
+- Solidity
+- Ethereum
+- Hardhat
+- Foundry
+- OpenZeppelin
+- Web3.js
+- Ethers.js
+- Circom
+- Groth16
+- JavaScript
+- TypeScript
+- Git
 
 ---
 
-### 🎯 My Goal
-I am looking to apply my technical Master's knowledge and legal precision in roles involving **Smart Contract Analysis, Technical Consulting, or Project Architecture**.
+## 🔍 Areas of Expertise
 
-📫 **Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ineskrueger)
+- Blockchain Architecture
+- Smart Contract Development
+- Smart Contract Security
+- Zero-Knowledge Identity
+- Soulbound Tokens
+- Real-World Assets (RWA)
+- DeFi Protocol Design
+- Compliance & Tokenization
+- Security Reviews
+- System Design
+
+---
+
+## 🚀 Featured Projects
+
+- **Kveltaar** – Zero-Knowledge Identity Passport
+- **VerifiBond** – RWA Tokenization Platform
+- **OmniSwap MEV Shield**
+- **Compliance Engine**
+- **Sentinel Asset Shield**
+- **RWA Governance Solutions**
+
+---
+
+## ⚖ Legal & Regulatory Background
+
+My background as an officially certified Spanish legal interpreter provides valuable insight into regulatory requirements, legal terminology, and compliance aspects relevant to blockchain and digital asset projects.
+
+---
+
+## 🌍 Languages
+
+- German (Native)
+- English (Professional)
+- Spanish (Professional)
+- French (Working Proficiency)
+
+---
+
+## 🎓 Certifications & Education
+
+- 🏅 Blockchain Architect — Blockchain Council (2026)
+- 🎓 Master in Blockchain Technology & Cryptocurrencies — IEBS Business School (2024)
+- ⚖ Certified Spanish Legal Interpreter (Judicial)
+
+---
+
+## 🎯 Currently Interested In
+
+I am open to remote and international opportunities as a:
+
+- Blockchain Architect
+- Blockchain Engineer
+- Smart Contract Engineer
+- Solidity Developer
+- Web3 Engineer
+
+---
+
+## 🌍 Open to Opportunities
+
+Remote | Europe | Switzerland | France | UAE | USA
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: *https://www.linkedin.com/in/ineskrueger/*
+- Email: *lernenmitines@yahoo.com*
